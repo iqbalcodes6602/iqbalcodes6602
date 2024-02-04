@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
 
-<img src="https://komarev.com/ghpvc/?username=nithinkatta&label=Profile%20views&color=0e75b6&style=flat" alt="nithinkatta" />
+<img src="https://komarev.com/ghpvc/?username=iqbalcodes6602&label=Profile%20views&color=0e75b6&style=flat" alt="nithinkatta" />
 
 ## Skills
 
