@@ -8,6 +8,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
 
+<img src="https://komarev.com/ghpvc/?username=nithinkatta&label=Profile%20views&color=0e75b6&style=flat" alt="nithinkatta" />
+
 ## Skills
 
 Below mentioned are some of the skills I have. _In any way it doesn't mean that I am limited to just these skills_
