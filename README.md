@@ -35,5 +35,6 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 ## Github Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=iqbalcodes6602&theme=onedark&column=8&margin-w=5&margin-h=5)
 
-![iqbalcodes6602's Stats](https://github-readme-stats.vercel.app/api?username=iqbalcodes6602&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![iqbalcodes6602's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalcodes6602&theme=radical&show_icons=true&hide_border=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalcodes6602&show_icons=true&locale=en&layout=compact" alt="iqbalcodes6602" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalcodes6602&show_icons=true&locale=en" alt="iqbalcodes6602" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalcodes6602&" alt="iqbalcodes6602" /></p>
