@@ -25,6 +25,7 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=docker,kubernetes,git,github,markdown,vercel,vscode,figma,linux)
+![](https://komarev.com/ghpvc/?username=iqbalcodes6602)
 
 <!--
 ## Some of my projects
